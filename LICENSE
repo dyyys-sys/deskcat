@@ -1,0 +1,101 @@
+桌面小猫 · 非商业开源许可协议 v1.0
+DeskCat Non-Commercial Open Source License v1.0
+================================================
+
+版权所有 (c) 2026 桌面小猫（DeskCat）
+保留所有权利。
+
+本协议适用于本仓库内的全部源代码、模型、图标与文档（以下统称「本软件」）。
+
+
+一、你可以做的
+--------------
+
+1. 使用
+   在任意数量的电脑上安装、运行本软件。公司、学校、政府机关内部办公使用
+   也算「使用」，不需要额外授权，也不需要付费。
+
+2. 复制与分发
+   原样复制、分发本软件，包括把它放进你自己的软件源、内网仓库、U 盘。
+
+3. 修改
+   阅读、修改源码，做出你自己的版本，不必公开你的改动。
+
+4. 分发修改版
+   分发你修改后的版本，但必须同时满足：
+   · 保留本协议全文，不得删除；
+   · 保留原作者署名与项目地址；
+   · 在显著位置（README、关于窗口或启动画面）说明你做了哪些改动。
+
+
+二、你不可以做的
+----------------
+
+1. 商业买卖
+   不得以任何形式出售本软件或它的修改版。
+   不得把本软件（含修改版）打包进收费产品、付费会员、付费课程、付费远程
+   服务或任何以盈利为目的的交付物中。
+   不得在应用商店、网盘、资源站以「付费下载」「赞助解锁」等方式变现。
+
+2. 去除署名
+   不得删除、隐藏、替换本协议、原作者署名或项目地址。
+
+3. 改换许可
+   不得把你分发出去的副本改用其他许可协议（包括更宽松的协议）。
+
+4. 商标
+   不得使用「桌面小猫 / DeskCat」作为你修改版的产品名，让人误以为
+   你发布的是官方版本。请另起名字。
+
+
+三、免责声明
+------------
+
+本软件按「现状」提供，不附带任何明示或暗示的担保，包括但不限于对适销性、
+特定用途适用性和不侵权的担保。
+
+在任何情况下，作者或版权持有人均不对任何索赔、损害或其他责任负责，
+无论是在合同诉讼、侵权行为还是其他方面，由本软件或本软件的使用或其他
+交易引起、产生或与之相关。
+
+本软件会读取你的键盘与鼠标事件（为了让猫跟着动）。所有事件只在本机内存
+中处理，不联网、不上传、不记录。请自行评估后再运行。
+
+
+四、协议的终止
+--------------
+
+你一旦违反上述任何条款，本协议授予你的全部权利立即自动终止。
+终止后如需继续使用，须取得作者的书面许可。
+
+
+五、关于「开源」的一点说明
+--------------------------
+
+本协议允许你自由使用、修改、分发源码，但不允许商业买卖。
+按开放源代码促进会（OSI）的严格定义，「禁止商业使用」不属于开源许可，
+本协议的准确叫法是「源码公开的非商业许可」（source-available,
+non-commercial）。
+
+如果你希望自己的分支采用 OSI 认可的标准开源许可（允许商用），
+把本文件替换成 MIT 许可全文即可 —— 那是你的自由，但请不要用它来
+代表本仓库的官方版本。
+
+
+--------------------------------------------------
+English summary (the Chinese text above prevails):
+
+You may use, copy, modify and redistribute this software, including inside
+companies and organizations, provided you keep this license, keep the
+attribution, and state your changes.
+
+You may NOT sell this software or any derivative of it, bundle it into a paid
+product or paid service, strip the attribution, or relicense your copies under
+a different license. You may not use the name "DeskCat / 桌面小猫" for your fork.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. IN NO EVENT
+SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING
+FROM THE USE OF THE SOFTWARE.
+
+This is a source-available, non-commercial license, not an OSI-approved open
+source license.
